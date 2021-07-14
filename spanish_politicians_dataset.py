@@ -19,10 +19,10 @@ import datetime
 
 #Definimos las credenciales con las que accederemos a twitter a través de la api:
     
-api_key = 'HHfVWZ6kKmqQuUTLQyNjcdOvW'
-api_secret = '5jWfZ8a31ln64joKGORGCXmDT0x3nWVxSdGh0Y1xHR5jd4G9Xw'
-access_token = '1319405929872445446-I9mRpYZJFFC2ZefRiF337QTWAjlWUh'
-access_token_secret = 'zeIF9jx0O4ZjFUowfOZcsr6iHp7XE98i1QOqH9EQ9TM2k'
+api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+api_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 
 #Nos autentificamos:
